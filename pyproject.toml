@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "finalproject"
+name = "Social Graphs - Final Project"
 version = "0.1.0"
 description = ""
 authors = ["Asger <jungar111>"]
